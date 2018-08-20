@@ -1,4 +1,5 @@
 # A Simple Chat Room App
+<img src="assets/demo.gif" alt="demo"/>
 
 ## Description:
 - A simple chat app built using **React**, **Redux**, **Redux-Saga**, and **Web Sockets**. 
